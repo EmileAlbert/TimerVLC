@@ -1,0 +1,1 @@
+Tiny python program to create srt file adding timer in VLC player 
